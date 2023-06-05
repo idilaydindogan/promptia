@@ -16,6 +16,7 @@ module.exports = {
 				"primary-blue": "#4F709C",
 				"secondary-beige": "#D8C4B6",
 				"primary-beige": "#F5EFE7",
+				"secondary-amber": "#C38154",
 			},
 		},
 	},
